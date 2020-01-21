@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+    <bean id="obj" class="spring_core_ex_3.Pojo">
+        <property name="name" value="Projjal"></property>
+        <property name="roll" value="117001"></property>
+        <property name="address" value="Kolkata"></property>
+        <property name="marks" value="95"></property>
+        <property name="standard" value="12th"></property>
+    </bean>
+    
+</beans>
