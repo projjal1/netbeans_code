@@ -1,5 +1,4 @@
 # netbeans_code
-netbeans code
 
 This repo contains codes of Advanced Java connected to Mysql(change table names in each when you run it).
 
